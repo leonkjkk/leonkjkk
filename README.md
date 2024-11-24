@@ -1,5 +1,5 @@
 ### Olá, meu nome é Leon 😁
-Apaixonado por tecnologia, adorador de música e seduzido pela programação.
+Apaixonado por tecnologia, viciado por sistemas e seduzido pela programação.
 
 [![Projetos](https://img.shields.io/website?label=Projetos&style=for-the-badge&url=https://leonkjkk.github.io/)](https://leonkjkk.github.io)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](victorleonferr4@gmail.com)
