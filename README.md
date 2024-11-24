@@ -2,7 +2,7 @@
 Apaixonado por tecnologia, viciado por sistemas e seduzido pela programação.
 
 [![Projetos](https://img.shields.io/website?label=Projetos&style=for-the-badge&url=https://leonkjkk.github.io/)](https://leonkjkk.github.io)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](victorleonferr4@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorleonferr4@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leonkjkk)
 
 
